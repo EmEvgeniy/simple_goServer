@@ -26,6 +26,6 @@
 Сначала клонируйте репозиторий на ваш локальный компьютер:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/EmEvgeniy/simple_goServer.git
 cd your-repo-name
 ```
